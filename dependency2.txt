@@ -5,3 +5,4 @@ Quan 3
 Quan 4
 Quan 5
 Quan 6
+Quan 7
